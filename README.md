@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/medamineBH1/projetDA//main?filepath=Olympique.ipynb)
 
-# Presentation :page_facing_up:
+#  :page_facing_up:  Presentation 
 
 <img src='Images/jo.jpeg' width=120px>
 
@@ -32,13 +32,17 @@ tournament from all the Olympic events
 
 
 
-## Analyse
+##  :bar_chart: Analyse
 
  * which year and city did the Netherlands win the highest number of medals in its history?
  * visualizing the relationship between the number of athletes countries send to an event and the number of medals they receive.
  * In which sports does the height of an athlete increase their chances of earning a medal? 
 
-## ConclusionThe most successful years for the Netherlands team were 
+## :memo: Conclusion
+
+The most successful years for the Netherlands team were 
  * London 2012 with a total of 69 medals
  * Amsterdam 1928 with a total of 51 medals
- * Rio 2016 with a total of 45 medals 
+ * Rio 2016 with a total of 45 medals
+ * 
+ The United States and China are the dominating countries in most events 
